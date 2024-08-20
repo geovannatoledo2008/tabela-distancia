@@ -1,0 +1,28 @@
+table, tr, td{
+    border: solid 1px rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+ 
+ 
+.largColuna{
+    width: 200px;
+    background-color: rgb(216, 20, 128);
+}
+#cidade{
+    background-color: red;
+}
+ 
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#Barra{
+    background-color: black;
+}
+
+#preview{
+    background-color: black;
+}
+
+.largmast{
+    width: 100px;
+}
