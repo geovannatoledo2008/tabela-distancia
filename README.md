@@ -43,8 +43,20 @@ veja uma imagem de parte do codigo,onde e possivel indentificar o uso dos elemen
 #### Estilo
 
 ![Resultado final do projeto](img/resultado-final.PNG)
+ 
+### estilizaçao
 
-## Tecnologias
+o projeto foi estilizado,utilizando CSSS3. foi criado um arquivo chamado main.css. nesse arquivo,constam configuraçoes de estilo apresentadas a seguir:
+
+* estilo de cores
+```
+.largColuna{
+    width: 200px;
+    background-color: rgb(216, 20, 128);
+  }
+```
+
+## Tecnologias 
 * HMTL
 * CSS3
 * READMW 
